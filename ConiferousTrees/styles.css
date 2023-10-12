@@ -1,0 +1,53 @@
+.cube1 {
+  margin: 10px;
+  height: 80px;
+  background: linear-gradient(2deg, rgb(88, 84, 129), rgb(90, 180, 117));
+  box-shadow: 5px 5px 5px #24313d;
+}
+
+body {
+    background-image: url(https://img.freepik.com/premium-/seamless-pattern-decorated-with-floral-elements-brier-fir-needles-sandthorn-cape-gooseberry-fern-maple-leaves-autumn-forest-illustration-for-textile-fabric-wrapping-paper-print-background_159373-164.jpg);
+    font-family: verdana;
+    font-size: 16px;
+}
+h1, h2 {
+    text-align: center;
+    margin-top: 3px;
+}
+
+p, ol, br {
+    margin-left: 20px;
+    margin-right: 20px;
+  
+}
+
+a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: rgb(25, 90, 85);
+  }
+
+  a:active {
+    color: rgb(25, 90, 85);
+  }
+
+.menu {
+  width: 50%;
+  background-color: #638269;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1px;
+  
+}
+
+.address {
+  padding: 15px;
+  margin-top: -25px;
+  }
+

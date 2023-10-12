@@ -1,0 +1,93 @@
+h1, h2, p {
+    text-align: center;
+}
+
+.welcome {
+    font-style: italic;
+    margin-top: -10px;
+}
+
+h1, h2 {
+    font-family: Arial, Impact;
+}
+
+h1 {
+    font-size: 45px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 30 px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -15px;
+  }
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTA2CkDUgUxefb1XGUPfXBeGJczAzu79bBA&usqp=CAU);
+    font-family: verdana;
+    padding: 30px;
+}
+ hr {
+    height: 2px;
+    background-color: rgb(49, 182, 151);
+    border-color: rgb(49, 182, 151);
+ }
+
+.menu {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: rgb(217, 230, 227);
+    padding: 20px;
+    max-width: 500 px;
+}
+
+.flavor, .dessert {
+    text-align: left;
+    width: 75%;
+    
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+    
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    font-size: 16px;
+}
+
+.bottom-line {
+    margin-top: 25px;
+  }
+
+footer {
+    font-size: 13px;
+}
+
+a {
+    color: black;
+    }
+a:visited {
+    color:blueviolet
+}
+a:hover {
+    color:rgb(5, 75, 58);
+}
+a:active {
+    color:rgb(24, 26, 25);
+}
+
+.address {
+    margin-bottom: 0px;
+  }

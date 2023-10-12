@@ -1,0 +1,97 @@
+.canvas {
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    overflow: hidden;
+    
+    
+}
+
+.frame {
+    border: 50px solid rgb(86, 108, 131);
+    width: 500px;
+    padding: 30px;
+    margin: 20px auto;
+    background-color: rgb(53, 57, 71);
+}
+
+.one {
+    width: 60px;
+    height: 45px;
+    background-color: #aa3918;
+    margin: 20px auto;
+    transform: rotate(0.4deg);
+    
+
+}
+
+.two {
+    width: 40px;
+    height: 10px;
+    background-color: #aa3918;
+    padding: 1px;
+    display: inline-block;
+    margin: -10px 15%;
+    vertical-align: top;
+    transform: rotate(-4deg);
+}
+
+.three {
+    width: 145px;
+    height: 30px;
+    background-color: #aa3918;
+    text-align: right;
+    display: inline-block;
+    margin: -10px auto;
+    vertical-align: top;
+    
+  
+}
+
+.four {
+    width: 80px;
+    height: 19px;
+    background-color: #aa3918;
+    margin: 20px -138px 0;  
+    transform: rotate(-3deg);
+}
+
+.five {
+    width: 180px;
+    height: 30px;
+    background-color: #aa3918;
+    margin: 5px 50%;
+    transform: rotate(-4deg);
+}
+
+.six {
+    
+        width: 30px;
+        height: 17px;
+        background-color: #aa3918;
+        margin: -6.5px 5px 0; 
+         
+    
+}
+
+.seven {
+    width: 15px;
+        height: 10px;
+        background-color: #aa3918;
+        margin: 7px -74px 0; 
+        
+}
+
+.eight {
+    width: 47px;
+    height: 30px;
+    background-color: #aa3918;
+    margin: 0 40%;  
+    transform: rotate(2deg);
+}
+
+.whole {
+    transform: rotate(-30deg);
+    margin-top: 150px;
+}

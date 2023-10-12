@@ -1,0 +1,75 @@
+body {
+    background-image: url(https://us.123rf.com/450wm/gollli/gollli1802/gollli180200016/94674004-seamless-pattern-with-cute-boars-background-with-wild-pigs-and-forest-plants-and-fruits-vector.jpg);
+    font-family: Verdana;
+    font-size: 16px;
+}
+
+.content {
+    width: 50%;
+    background-color: rgb(145, 175, 168);;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 25px;
+    padding-left: 7px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+    
+
+h1, h2 {
+    text-align: center;
+    margin-top: 5px;
+    font-family: Arial;
+    
+}
+
+hr {
+    background-color: rgb(87, 99, 131);
+    border-color: rgb(87, 99, 131);
+    height: 1px;
+    margin-bottom: 15px;
+}
+
+a {
+    color: rgb(51, 47, 47);
+}
+
+a:visited {
+    color: brown;
+}
+
+a:active {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 16px;
+}
+
+
+.types1 {
+    text-align: left;
+    display: inline-block;
+    width: 60%;
+
+}
+
+.types2 {
+    text-align: right;
+    display: inline-block;
+    width: 40%;
+}
+
+.tophr {
+    margin-top: -35px;
+}
+
+.center {
+    display: block;
+    text-align: center;
+}
